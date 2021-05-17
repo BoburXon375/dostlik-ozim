@@ -2,28 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9d0d1e-9506-4bd0-bee8-68a3a823c901" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dostlik-ozim.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Frame3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Rasm-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Rectangle 11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Rectangle 18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Rectangle 64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Rectangle 66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Rectangle 67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/Vector2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/corusel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/image 9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/like-colored.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NewsView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,10 +65,18 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Boburxon\Desktop\websstorm\dostlik-ozim\src\sass" />
+      <recent name="C:\Users\Boburxon\Desktop\websstorm\dostlik-ozim\src\components" />
+      <recent name="C:\Users\Boburxon\Desktop\websstorm\dostlik-ozim\public" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,6 +90,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621234518283</updated>
-      <workItem from="1621234520433" duration="1543000" />
+      <workItem from="1621234520433" duration="5692000" />
     </task>
     <servers />
   </component>
@@ -80,5 +134,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
